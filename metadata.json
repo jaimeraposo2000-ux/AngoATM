@@ -1,0 +1,7 @@
+{
+  "name": "AngoATM",
+  "description": "Aplicativo para localização e monitoramento de status de ATMs em Angola em tempo real.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
